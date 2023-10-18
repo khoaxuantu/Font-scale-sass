@@ -1,7 +1,7 @@
 @use "sass:list";
 @use "sass:math";
 @use "sass:map";
-@use "./utils/index.scss" as utils;
+@use "utils";
 
 $-scaleRatio: (
   'golden': 1.618,

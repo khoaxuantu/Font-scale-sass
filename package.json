@@ -1,0 +1,21 @@
+{
+  "name": "fontscale-sass",
+  "version": "0.1.0",
+  "description": "A SASS font-scale generator module",
+  "main": "./scss/_font-scale.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khoaxuantu/Font-scale-sass.git"
+  },
+  "keywords": [
+    "sass",
+    "typography",
+    "simulation"
+  ],
+  "author": "Xuan Khoa Tu Nguyen",
+  "license": "MIT",
+  "homepage": "https://github.com/khoaxuantu/Font-scale-sass"
+}
