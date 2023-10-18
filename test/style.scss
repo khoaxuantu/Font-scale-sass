@@ -1,0 +1,3 @@
+@use '../main.scss' as main;
+
+@include main.createTypoScale($ratio: 'golden');

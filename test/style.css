@@ -1,0 +1,46 @@
+/* footnote endnote caption body-text blockquote h6 h5 h4 h3 h2 h1 */
+.footnote {
+  font-size: 0.749em;
+}
+
+.endnote {
+  font-size: 0.825em;
+}
+
+.caption {
+  font-size: 0.825em;
+}
+
+body {
+  font-size: 1em;
+}
+
+blockquote {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: 1.101em;
+}
+
+h4 {
+  font-size: 1.212em;
+}
+
+h3 {
+  font-size: 1.47em;
+}
+
+h2 {
+  font-size: 1.961em;
+}
+
+h1 {
+  font-size: 3.174em;
+}
+
+/*# sourceMappingURL=style.css.map */
