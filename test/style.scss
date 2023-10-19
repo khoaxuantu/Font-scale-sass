@@ -1,3 +1,5 @@
 @use '../scss/font-scale';
 
 @include font-scale.createTypoScale($ratio: 'golden');
+
+@debug "Test done!"
