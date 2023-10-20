@@ -1,10 +1,10 @@
 {
   "name": "fontscale-sass",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A SASS font-scale generator module",
   "main": "./scss/_font-scale.scss",
   "files": [
-    "scss/**/*",
+    "font-scale/**/*",
     "LICENSE.txt",
     "README.md"
   ],

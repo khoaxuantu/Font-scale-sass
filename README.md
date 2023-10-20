@@ -19,12 +19,11 @@ typographic scale formula.
 ## Quick start
 
 ### Install
-<!-- You can install the module by one of the following way:
+You can install the module by one of the following way:
 - NPM
 ```bash
 npm install fontscale-sass --save-dev
-``` -->
-*Update later...*
+```
 
 ### Deal with the folder
 
