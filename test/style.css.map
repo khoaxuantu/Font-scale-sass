@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/utils/_constant.scss","../scss/_font-scale.scss"],"names":[],"mappings":"AAeA;ACTI;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE","file":"style.css"}
+{"version":3,"sourceRoot":"","sources":["../font-scale/utils/_constant.scss","../font-scale/_index.scss"],"names":[],"mappings":"AAeA;ACTI;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE;;;AADF;EACE","file":"style.css"}
