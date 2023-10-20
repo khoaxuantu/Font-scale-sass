@@ -1,14 +1,14 @@
 # Font scale sass
 
-You want to custom your [Sass](https://sass-lang.com/) typographic scale but get tired of finding out how to have a
-great design scaling? Then this module's gonna help you a lot ~
+You want to customize your [Sass](https://sass-lang.com/) typographic scale but get tired of finding out how to have a
+great design scale? Then this module's gonna help you a lot ~
 
-It provides a preset font size for your footnote, endnote, caption, body, blockquote and headings (from h6 to h1).
+It provides a preset font size for your footnote, endnote, caption, body, blockquote, and headings (from h6 to h1).
 
 ## Acknowledgement
 
-The module refers to the following great articles and projects. For better understanding how the typography works, you
-can try spending time reading them as a small research:
+The module refers to the following great articles and projects. For a better understanding of how the typography works
+(typically what's behind this module), you can try spending time reading them as a small research:
 - [layoutgridcalculator.com](https://www.layoutgridcalculator.com/type-scale/) by Ti'kuto Design Studio, for the
 typographic scale calculating system.
 - [Typographic Scale](http://spencermortensen.com/articles/typographic-scale/) by Simonsen Spencer, for the
@@ -111,50 +111,50 @@ The `font-scale` module provides only one API to you:
 
 #### Return
 
-The following css elements will be rendered
+By default, the following css elements will be rendered
 
 ```css
 .footnote {
-  font-size: ...
+  font-size: 0.66em;
 }
 
 .endnote {
-  font-size: ...
+  font-size: 0.758em;
 }
 
 .caption {
-  font-size: ...
+  font-size: 0.758em;
 }
 
 body {
-  font-size: ...
+  font-size: 1em;
 }
 
 blockquote {
-  font-size: ...
+  font-size: 1em;
 }
 
 h6 {
-  font-size: ...
+  font-size: 1em;
 }
 
 h5 {
-  font-size: ...
+  font-size: 1.149em;
 }
 
 h4 {
-  font-size: ...
+  font-size: 1.32em;
 }
 
 h3 {
-  font-size: ...
+  font-size: 1.741em;
 }
 
 h2 {
-  font-size: ...
+  font-size: 2.639em;
 }
 
 h1 {
-  font-size: ...
+  font-size: 5.278em;
 }
 ```
