@@ -24,13 +24,24 @@ You can install the module by one of the following way:
 ```bash
 npm install fontscale-sass --save-dev
 ```
+- Yarn
+```bash
+yarn add fontscale-sass --dev
+```
+- PNPM
+```bash
+pnpm add -D fontscale-sass
+```
+- Manually
+  + [Download the latest release here](https://github.com/khoaxuantu/Font-scale-sass/releases/tag/v1.0.0)
 
 ### Deal with the folder
 
 After installing successfully, go to the directory where the module located:
-- For npm, you can find the folder named `fontscale-sass` in `node_modules` folder.
+- For npm/yarn/pnpm, you can find the folder named `fontscale-sass` in `node_modules` folder.
+- For manually download, you can find the unzipped `Font-scale-sass-{tag}` folder.
 
-Go to this folder and pick up the `font-scale` folder which have the below file structure:
+Go to that folder and pick up the `font-scale` folder which have the below file structure:
 ```
 font-scale
   |
@@ -44,9 +55,9 @@ font-scale
 You can choose how to deal with the folders by one of the following ways:
 - Place the folder at your project's root stylesheet directory
 - Use `--load-path` for dart sass compiling command
-```bash
-sass --load-path=path/to/font-scale style.scss style.css
-```
+  ```bash
+  sass --load-path=path/to/font-scale style.scss style.css
+  ```
 
 ### Import the module
 
