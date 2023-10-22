@@ -168,3 +168,12 @@ h1 {
   font-size: 5.278em;
 }
 ```
+
+#### Example
+Generate the typographic scale in golden ratio, pentatonic steps and fibonacci composition
+```scss
+@use 'fontscale-sass' as *;
+
+// Pentatonic steps and fibonacci composition is default
+@include createTypoScale($ratio: 'golden');
+```
